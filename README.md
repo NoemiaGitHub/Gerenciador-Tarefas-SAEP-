@@ -1,7 +1,5 @@
 # Sistema de Gerenciamento de Tarefas - SAEP
 
-[Visite o site da página](http://miatech.infinityfreeapp.com/cadusuario.php?i=1)
-
 Desenvolvi um sistema de gerenciamento de tarefas como parte de uma atividade prática no curso do Senai. Este sistema facilita a organização e priorização das atividades diárias de equipes, permitindo a criação, edição e exclusão de tarefas, além da atribuição de prioridades e prazos.
 
 ## **Funcionalidades**
@@ -52,7 +50,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 # Sistema de Gerenciamento de Tarefas - SAEP
 
-[Visite o site da página](http://miatech.infinityfreeapp.com/)
+[Visite o site da página: http://miatech.infinityfreeapp.com/cadusuario.php?i=1
 
 Desenvolvi um sistema de gerenciamento de tarefas como parte de uma atividade prática no curso do Senai. Este sistema facilita a organização e priorização das atividades diárias de equipes, permitindo a criação, edição e exclusão de tarefas, além da atribuição de prioridades e prazos.
 
